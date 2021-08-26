@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cmd_tools/__init__.py
+cmd_tools/bulk_renamer.py
+jbvergara_cmd_tools.egg-info/PKG-INFO
+jbvergara_cmd_tools.egg-info/SOURCES.txt
+jbvergara_cmd_tools.egg-info/dependency_links.txt
+jbvergara_cmd_tools.egg-info/requires.txt
+jbvergara_cmd_tools.egg-info/top_level.txt
